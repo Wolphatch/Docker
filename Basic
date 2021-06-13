@@ -1,6 +1,8 @@
 1. Start:  
   
-   ```systemctl start docker```
+```
+   systemctl start docker
+```
 
 2. Test whether successfully started:
    
