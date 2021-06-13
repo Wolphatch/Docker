@@ -1,21 +1,19 @@
 1. Start:  
   
-```
-   systemctl start docker
-```
+	```systemctl start docker```
 
 2. Test whether successfully started:
    
-  ```docker version```
+  	```docker version```
    
 3. Run
   
-  ```docker run [image]```
+  	```docker run [image]```
   
 4. Every container looks like a small linux VM. 
   
-  Containers are isolated.
-  Each of them has ports.
+  	Containers are isolated.
+  	Each of them has ports.
   
 5. Why docker is faster than VM?
 	
